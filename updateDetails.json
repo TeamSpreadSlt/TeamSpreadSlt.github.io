@@ -1,0 +1,10 @@
+[
+    "Added Vibration to all feedback notification",
+    "Added shake animation for input field with error and haptic feedback",
+    "Fixed scroll/list item render in auto/manual folders",
+    "Fixed FAB alignments ",
+    "added haptic feedback feedback to follow folder",
+    "added haptic feedback to read later action",
+    "Added haptic feedback to all call to confrim actions (delete, logout, etc...)"
+
+]
