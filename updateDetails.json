@@ -1,9 +1,8 @@
 [
-    "Added haptic feedback to notification",
-    "Added shake animation for input field with error and haptic feedback",
-    "Fixed scroll/list item render in auto/manual folders",
-    "Fixed FAB alignments ",
-    "added haptic feedback feedback to follow folder",
-    "added haptic feedback to read later action",
-    "Added haptic feedback to all call to confrim actions (delete, logout, etc...)"
+    "Updated menu options for auto/manual folder articles",
+    "Added loader for loading articles in auro/manual folders",
+    "Fixed search FAB Color on home screen",
+    "Implemted new image component for article images",
+    "Enabeled sub-items for topis",
+    "Designed UI to adopt sub-items"
 ]
