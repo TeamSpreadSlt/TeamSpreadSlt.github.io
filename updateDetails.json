@@ -1,8 +1,6 @@
 [
-    "Updated menu options for auto/manual folder articles",
-    "Added loader for loading articles in auro/manual folders",
-    "Fixed search FAB Color on home screen",
-    "Implemted new image component for article images",
     "Enabeled sub-items for topis",
-    "Designed UI to adopt sub-items"
+    "Designed UI to adopt sub-items",
+    "Implemented sub-items API",
+    "Added update personalization option to settings > customize Spreadcaster"
 ]
