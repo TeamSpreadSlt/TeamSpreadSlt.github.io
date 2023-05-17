@@ -2,5 +2,6 @@
     "Enabeled sub-items for topis",
     "Designed UI to adopt sub-items",
     "Implemented sub-items API",
-    "Added update personalization option to settings > customize Spreadcaster"
+    "Added update personalization option to settings > customize Spreadcaster",
+    "Added validation for atleast 3 topics and 3 channels"
 ]
