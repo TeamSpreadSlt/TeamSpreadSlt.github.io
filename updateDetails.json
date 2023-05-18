@@ -1,7 +1,9 @@
 [
-    "Enabeled sub-items for topis",
-    "Designed UI to adopt sub-items",
-    "Implemented sub-items API",
-    "Added update personalization option to settings > customize Spreadcaster",
-    "Added validation for atleast 3 topics and 3 channels"
+    "Fixed bottom nav height on iOS",
+    "Added login screen for guests in folder section",
+    "Fixed later news not removing when logout and login as guest",
+    "Fixed loading of news in folder section",
+    "Fixed place hodler logog opcaity",
+    "Theme Fixes",
+    "Oprimized api calls for both auth/non-auth users"
 ]
