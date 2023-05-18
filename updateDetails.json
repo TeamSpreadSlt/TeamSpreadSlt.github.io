@@ -7,5 +7,6 @@
     "Theme Fixes",
     "Oprimized api calls for both auth/non-auth users",
     "partial worked on saving read later news on device for guest users",
-    "Bottom Nav shadow is disturbed, will be fixed tomorrow"
+    "Bottom Nav shadow is disturbed, will be fixed tomorrow",
+    "moved customise prefrences ro profile settings"
 ]
