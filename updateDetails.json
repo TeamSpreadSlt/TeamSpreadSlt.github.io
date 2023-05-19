@@ -1,12 +1,8 @@
 [
-    "Fixed bottom nav height on iOS",
-    "Added login screen for guests in folder section",
-    "Fixed later news not removing when logout and login as guest",
-    "Fixed loading of news in folder section",
-    "Fixed place hodler logog opcaity",
-    "Theme Fixes",
-    "Oprimized api calls for both auth/non-auth users",
-    "partial worked on saving read later news on device for guest users",
-    "Bottom Nav shadow is disturbed, will be fixed tomorrow",
-    "moved customise prefrences ro profile settings"
+    "Fixed partial theme issues, and notification placing",
+    "Added login required for read later guests",
+    "Fixed image roundess in new image component (news arrticle)",
+    "Implemented Saving/updating user interests",
+    "Completed Updating user interests",
+    "implemented follow/unfollow channel oprion from news article"
 ]
