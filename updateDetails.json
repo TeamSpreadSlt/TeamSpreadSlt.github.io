@@ -2,5 +2,6 @@
     "Fixed theme change glitch on news article card",
     "Completed Channel follow/unfollow",
     "Fixed ir-relevant follow/unfollow and read later coming for random news",
-    "Press back on other screen at home will bring back to explore screen (only android)"
+    "Updated manual folder input and preview of article screen/flow",
+    "allowed multi line input for folder title and description"
 ]
