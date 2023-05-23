@@ -1,7 +1,6 @@
 [
-    "Fixed theme change glitch on news article card",
-    "Completed Channel follow/unfollow",
-    "Fixed ir-relevant follow/unfollow and read later coming for random news",
-    "Updated manual folder input and preview of article screen/flow",
-    "allowed multi line input for folder title and description"
+    "Updated Theme to support header and bg color with safearea",
+    "Replaced comments bottomsheet with screen",
+    "Connected read later on article page",
+    "Resolved google login issue with amric, added additional data to api for backednd support"
 ]
