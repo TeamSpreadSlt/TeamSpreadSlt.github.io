@@ -1,6 +1,6 @@
 [
-    "Updated Theme to support header and bg color with safearea",
-    "Replaced comments bottomsheet with screen",
-    "Connected read later on article page",
-    "Resolved google login issue with amric, added additional data to api for backednd support"
+    "Fixed no loader on explore auto folders",
+    "Completed filter folders (added indication a filter is applied)",
+    "Implementted filter along with title/descrition search for explore folders",
+    "Explore folders added pull down refresh"
 ]
