@@ -1,6 +1,4 @@
 [
-    "Fixed no loader on explore auto folders",
-    "Completed filter folders (added indication a filter is applied)",
-    "Implementted filter along with title/descrition search for explore folders",
-    "Explore folders added pull down refresh"
+    "Fixed nested sub topics not showing when editing on interest selection screen",
+    "Implemented Commenst APIs for article"
 ]
