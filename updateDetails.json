@@ -1,4 +1,6 @@
 [
-    "Fixed nested sub topics not showing when editing on interest selection screen",
-    "Implemented Commenst APIs for article"
+    "Rmoved multi layer replies",
+    "Updated UI for comments",
+    "Fixed like/unlike comment logic",
+    "Added view more/less replies"
 ]
