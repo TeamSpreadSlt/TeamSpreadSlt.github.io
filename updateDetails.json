@@ -1,6 +1,6 @@
 [
-    "Rmoved multi layer replies",
-    "Updated UI for comments",
-    "Fixed like/unlike comment logic",
-    "Added view more/less replies"
+    "fixed list scroll not workin on android inside bottomsheets",
+    "Added FCM token, appversion and platform to login/reg apis for push notifications",
+    "Improved search bottom sheets on android, added searchb bar in header",
+    "Researched on tooltips and app tour, will start working on it tomorrow"
 ]
