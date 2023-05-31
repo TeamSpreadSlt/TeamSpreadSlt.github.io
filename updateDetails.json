@@ -1,6 +1,6 @@
 [
-    "fixed list scroll not workin on android inside bottomsheets",
-    "Added FCM token, appversion and platform to login/reg apis for push notifications",
-    "Improved search bottom sheets on android, added searchb bar in header",
-    "Researched on tooltips and app tour, will start working on it tomorrow"
+    "Fixed crash introduced by bottom sheet improvements on android",
+    "Fixed search results not resetting in bottom sheet on re-openning of sheet",
+    "Updated indicator for search filter multiple selections",
+    "Handeled navigation for notifications, (currently only for reply on comments [backend needs to handle pay load for other types])"
 ]
