@@ -1,7 +1,7 @@
 [
-    "Fixed one crash in auto folder location selection",
-    "Fixed issue where notification was sent null to server",
-    "Fixed issue changing category on explore and trying pull refresh jumps back to prev category",
-    "Fixed keyboard & input filed handling on comments screen",
-    "Working on folder filters (finalizing it)"
+    "Accumodated folder filters to have flexiability of using AND/OR operation filters",
+    "Implemented Alert Notifications api",
+    "Handeled navigation from notifications",
+    "Implemeted Read notifications api",
+    "Fixed scroll/render issue of comments in long thread"
 ]
