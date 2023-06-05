@@ -1,7 +1,5 @@
 [
-    "Accumodated folder filters to have flexiability of using AND/OR operation filters",
-    "Implemented Alert Notifications api",
-    "Handeled navigation from notifications",
-    "Implemeted Read notifications api",
-    "Fixed scroll/render issue of comments in long thread"
+    "Created Share article UI",
+    "Implemented top apps share deep links",
+    "Added share functionality to article, read later articles and article webview screen"
 ]
