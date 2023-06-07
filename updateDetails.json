@@ -1,5 +1,6 @@
 [
-    "Created Share article UI",
-    "Implemented top apps share deep links",
-    "Added share functionality to article, read later articles and article webview screen"
+    "Created Add RSS screen",
+    "Connected RSS feed content submit API",
+    "Created RSS Feed Preview webview screen",
+    "Added new theme appearance change animated transition"
 ]
