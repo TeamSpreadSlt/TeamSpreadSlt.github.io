@@ -2,5 +2,6 @@
     "Created search screen for folder search",
     "Implemented folder search API",
     "Improved mulitiple api calls request handling",
-    "Completed flow of navigation from search to folder details"
+    "Completed flow of navigation from search to folder details",
+    "Connected webview for template preview"
 ]
