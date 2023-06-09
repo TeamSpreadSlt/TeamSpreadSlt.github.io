@@ -1,6 +1,6 @@
 [
-    "Updated filter switches for folders",
-    "Fixed keyboard handling on create folder screen",
-    "Fixed theme not working properly on first launch",
-    "Partial work on user guide for auto folder editing"
+    "Created search screen for folder search",
+    "Implemented folder search API",
+    "Improved mulitiple api calls request handling",
+    "Completed flow of navigation from search to folder details"
 ]
