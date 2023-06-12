@@ -1,7 +1,4 @@
 [
-    "Created search screen for folder search",
-    "Implemented folder search API",
-    "Improved mulitiple api calls request handling",
-    "Completed flow of navigation from search to folder details",
-    "Connected webview for template preview"
+       "Fixed \"Something went wrong\" error, caused by limiting one api call for all endpoints",
+        "Implemented Auto Feed guide screen (partial)"
 ]
