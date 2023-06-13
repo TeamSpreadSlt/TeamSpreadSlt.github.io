@@ -1,4 +1,6 @@
 [
     "Updated new translations for english",
-    "Completed Auto folder guide screen"
+    "Completed Auto folder guide screen",
+    "Added pull refresh to RSS preiview webview",
+    "Disbaled forced desktop mode for webview"
 ]
