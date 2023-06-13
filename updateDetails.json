@@ -1,4 +1,4 @@
 [
-       "Fixed \"Something went wrong\" error, caused by limiting one api call for all endpoints",
-        "Implemented Auto Feed guide screen (partial)"
+    "Updated new translations for english",
+    "Completed Auto folder guide screen"
 ]
