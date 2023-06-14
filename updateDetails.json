@@ -1,8 +1,7 @@
 [
-    "Updated new translations for english",
-    "Completed Auto folder guide screen",
-    "Added pull refresh to RSS preiview webview",
-    "Disbaled forced desktop mode for webview",
-    "Fixed catogery/country bottomsheet not working on android in create RSS Screen",
-    "Fixed additional top space at header in bottomsheets"
+    "Refactored Theme provider to resolve circular dependency & require cycle issue",
+    "Fixed back to top fab position in folders",
+    "Created folder detail screen",
+    "added show folder conditions to folder detail screen",
+    "Created utility function for using inline variable with translated text"
 ]
