@@ -2,6 +2,6 @@
     "Refactored Theme provider to resolve circular dependency & require cycle issue",
     "Fixed back to top fab position in folders",
     "Created folder detail screen",
-    "added show folder conditions to folder detail screen",
+    "Added show folder conditions to folder detail screen",
     "Created utility function for using inline variable with translated text"
 ]
