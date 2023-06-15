@@ -1,7 +1,8 @@
 [
-    "Refactored Theme provider to resolve circular dependency & require cycle issue",
-    "Fixed back to top fab position in folders",
-    "Created folder detail screen",
-    "Added show folder conditions to folder detail screen",
-    "Created utility function for using inline variable with translated text"
+    "Fixed Switches theme color",
+    "Added show Conditions to folder create/update API",
+    "Fixed user image placeholder in folder detail screen",
+    "Implemented navigation to app settings page from general notification settings",
+    "Implemented Search articles API (api is not supporting multiple sources/countries)",
+    "Worked on issue of multiple global coming in countries selection"
 ]
