@@ -1,8 +1,6 @@
 [
-    "Fixed Switches theme color",
-    "Added show Conditions to folder create/update API",
-    "Fixed user image placeholder in folder detail screen",
-    "Implemented navigation to app settings page from general notification settings",
-    "Implemented Search articles API (api is not supporting multiple sources/countries)",
-    "Worked on issue of multiple global coming in countries selection"
+    "Fixed maunal folder create and add article issue",
+    "Fixed url input glitch in rss create",
+    "Fixed height to single lin for manual folder/rss url",
+    "Implemented the hol/wait for rss preview to load"
 ]
