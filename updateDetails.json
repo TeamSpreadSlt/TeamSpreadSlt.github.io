@@ -1,6 +1,8 @@
 [
-    "Fixed maunal folder create and add article issue",
-    "Fixed url input glitch in rss create",
-    "Fixed height to single lin for manual folder/rss url",
-    "Implemented the hol/wait for rss preview to load"
+    "Resolved multiple loader issue in read later",
+    "Resolved multiple loader issue in update subscription page",
+    "Integrated report issue API",
+    "Fixed crash of folder details screen when no articles added",
+    "Implemented privacy policy & terms of use APIs",
+    "Created FAQ screen"
 ]
