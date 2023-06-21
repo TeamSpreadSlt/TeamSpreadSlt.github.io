@@ -1,8 +1,5 @@
 [
-    "Resolved multiple loader issue in read later",
-    "Resolved multiple loader issue in update subscription page",
-    "Integrated report issue API",
-    "Fixed crash of folder details screen when no articles added",
-    "Implemented privacy policy & terms of use APIs",
-    "Created FAQ screen"
+    "Completed FAQ Screen",
+    "Fixed something went wrong issue",
+    "Created expandable component for FAQ questions"
 ]
