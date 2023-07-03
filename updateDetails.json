@@ -1,5 +1,6 @@
 [
-    "Completed FAQ Screen",
-    "Fixed something went wrong issue",
-    "Created expandable component for FAQ questions"
+"Handled 404 pages for RSS",
+"Added server side message to app in RSS web view",
+"Fixed click on 3 dot icon where back to top FAB appears",
+ "Added reader mode" 
 ]
