@@ -1,6 +1,5 @@
 [
-"Handled 404 pages for RSS",
-"Added server side message to app in RSS web view",
-"Fixed click on 3 dot icon where back to top FAB appears",
- "Added reader mode" 
+ "Implmented rss list api",
+ "Worked on handling url shared by user using ios share from other app (partial)",
+ "Fixed crash due to invalid svg for sign-in on guest mode setting page"
 ]
