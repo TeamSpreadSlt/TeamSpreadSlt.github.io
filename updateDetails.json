@@ -1,5 +1,9 @@
 [
- "Implmented rss list api",
- "Worked on handling url shared by user using ios share from other app (partial)",
- "Fixed crash due to invalid svg for sign-in on guest mode setting page"
+    "Configured Expo plugin to handle ios share extension",
+    "Reverted back to expo managed workflow",
+    "Created bottomsheet for handling shared links",
+    "Implemented manual folder and rss share from sheet",
+    "Connected manual folder link attach from share",
+    "Handeled guest user share actions"
+
 ]
